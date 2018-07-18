@@ -1,0 +1,8 @@
+img {
+    max-width: 320;
+    max-height: 240;
+}
+
+.result {
+    font-weight: bold;
+}
